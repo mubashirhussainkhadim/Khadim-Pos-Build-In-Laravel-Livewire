@@ -5,7 +5,7 @@
 Khadim POS is a comprehensive Point of Sale (POS) system designed to streamline business operations for mobile shops, restaurants, and other retail environments. Our POS system helps manage inventory, sales, purchases, and more, with features like barcode printing, expense tracking, and multi-currency support.
 
 ## Book Our Service 
-  - **[ClickOnThisLink](https://khadimpos.netlify.app/)** for embedding videos.
+  - **[ClickOnThisLink](https://khadimpos.netlify.app/)**
 
 ## Features
 
@@ -35,8 +35,7 @@ Khadim POS is a comprehensive Point of Sale (POS) system designed to streamline 
 - **Analytics**:
   - **Google Analytics** (GA4) for tracking and analyzing user behavior.
 
-- **Video Players**:
-  - **YouTube** for embedding videos.
+
 
 - **Font Scripts**:
   - **Google Font API**: For integrating custom fonts.
